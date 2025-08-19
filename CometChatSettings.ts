@@ -56,12 +56,12 @@
     }
   },
   "layout": {
-    "withSideBar": false,
+    "withSideBar": true,
     "tabs": [
-      "chats",
-      "calls",
+      "groups",
       "users",
-      "groups"
+      "calls",
+      "chats"
     ],
     "chatType": "user"
   },
